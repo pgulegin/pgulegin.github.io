@@ -5,10 +5,6 @@
 Notable programming language experience:
   - Java, C, C++, Objective-C, Swift
 
-Bachelor of Science in Computer Science from California State University, Los Angeles
-(916) 622-8268
-pgulegin@gmail.com
-
 ## Projects
 
 ### PhotoArchive
