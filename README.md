@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/pgulegin/pgulegin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+(More to come! I promise I'm interesting!)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Notable programming language experience:
+  - Java, C, C++, Objective-C, Swift
 
-### Markdown
+Bachelor of Science in Computer Science from California State University, Los Angeles
+(916) 622-8268
+pgulegin@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projects
 
-```markdown
-Syntax highlighted code block
+### PhotoArchive
 
-# Header 1
-## Header 2
-### Header 3
+This was my senior design project which was a collaboration between Los Angeles’ Bureau of Engineering and CSULA. My group was asked to create a mobile application to save and upload images into their Azure database. Additionally, we also had to create a tagging system to keep those images organized and efficient to filter.
 
-- Bulleted
-- List
+[PhotoArchive](nothing.rightnow)
 
-1. Numbered
-2. List
+### C- Minus Project
 
-**Bold** and _Italic_ and `Code` text
+Java based interpreter/parser mirroring the C- Minus Project for my Compilers class at CSULA. The program takes in a grammar and will output the terminals, non-terminals, first set, follow set and state set. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pgulegin/pgulegin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[C- Minus Project](nothing.rightnow)
