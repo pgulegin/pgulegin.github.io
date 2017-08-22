@@ -17,4 +17,4 @@ This was my senior design project which was a collaboration between Los Angelesâ
 
 Java based interpreter/parser mirroring the C- Minus Project for my Compilers class at CSULA. The program takes in a grammar and will output the terminals, non-terminals, first set, follow set and state set. 
 
-[C- Minus Project](nothing.rightnow)
+[C- Minus Project](https://pgulegin.github.io/C--Minus-Project/)
