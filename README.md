@@ -2,6 +2,9 @@
 
 (More to come! I promise I'm interesting!)
 
+California State University, Los Angeles  
+Bachelor of Science, Computer Science Degree
+
 Notable programming language experience:
   - Java
   - C / C++
@@ -13,10 +16,10 @@ Notable programming language experience:
 
 This project was a collaboration between Los Angeles’ Bureau of Engineering and CSULA. We created a mobile application to save and upload images into their Azure database. Additionally, we created a tagging system to keep those images organized and efficient to filter.
 
-[PhotoArchive](https://pgulegin.github.io/PhotoArchive---Azure-Version/)
+[View project page: PhotoArchive](https://pgulegin.github.io/PhotoArchive---Azure-Version/)
 
 ### C- Minus Project
 
 This is a Java based interpreter/parser mirroring the C- Minus Project. The program takes in a grammar and will output the terminals, non-terminals, first set, follow set and state set.
 
-[C- Minus Project](https://pgulegin.github.io/C--Minus-Project/)
+[View project page: C- Minus Project](https://pgulegin.github.io/C--Minus-Project/)
