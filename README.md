@@ -1,14 +1,6 @@
 ## About Me
 
-(More to come! I promise I'm interesting!)
-
-California State University, Los Angeles  
-Bachelor of Science, Computer Science Degree
-
-Notable programming language experience:
-  - Java
-  - C / C++
-  - Objective-C / Swift
+[Please visit my LinkedIn for more about me!](https://www.linkedin.com/in/pgulegin/)
 
 ## Projects
 
